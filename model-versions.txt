@@ -1,0 +1,5 @@
+﻿SI-Fast-Correctors
+
+2017-03-30  Model03   Changed coils size to decrease electrical current density
+2017-01-05  Model02   Increased core size, changed coils distribution
+2016-11-21  Model01   Initial version
