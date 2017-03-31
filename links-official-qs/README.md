@@ -1,11 +1,11 @@
 Sirius Fast Corrector (QS)
 ==========================
 
-current official model version : model-02
+current official model version : model-03
 
 fieldmap analysis folder       : qs-3gev
 
-fieldmap file                  : 2017-01-05_SI_FC_Model02_Sim_X=-12_12mm_Z=-250_250mm_Iqs=3A.txt
+fieldmap file                  : 2017-03-29_SI_FC_Model03_Sim_X=-12_12mm_Z=-250_250mm_Iqs=3A.txt
 
 
 Observations

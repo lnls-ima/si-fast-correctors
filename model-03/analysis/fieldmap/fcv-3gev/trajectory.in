@@ -25,7 +25,7 @@
 
 # each analysis has an identity label used for naming output files
 
-  config_label             	 'model02-cv-3gev'
+  config_label             	 'model03-cv-3gev'
 
 # beam energy
 

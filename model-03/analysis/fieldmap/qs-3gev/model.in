@@ -11,7 +11,7 @@
 
 # each analysis has an identity label used for naming output files
 
-  config_label                      'model02-qs-3gev'
+  config_label                      'model03-qs-3gev'
 
 
 # list with lengths of model segments

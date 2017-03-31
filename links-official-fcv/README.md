@@ -1,11 +1,11 @@
 Sirius Fast Corrector (FCV)
 ===========================
 
-current official model version : model-02
+current official model version : model-03
 
 fieldmap analysis folder       : fcv-3gev
 
-fieldmap file                  : 2017-01-05_SI_FC_Model02_Sim_X=-12_12mm_Z=-250_250mm_Icv=1A.txt
+fieldmap file                  : 2017-03-29_SI_FC_Model03_Sim_X=-12_12mm_Z=-250_250mm_Icv=1A.txt
 
 
 Observations

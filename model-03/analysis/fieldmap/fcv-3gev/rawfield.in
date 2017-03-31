@@ -14,7 +14,7 @@
 
 # each analysis has an identity label used for naming output files
 
-  config_label             'model02-cv-3gev'
+  config_label             'model03-cv-3gev'
 
 
 # the next parameter specifies the type of magnet to be analysid.
@@ -25,7 +25,7 @@
 
 # the full name of the file that contains the field map
 
-  fmap_filename            '../../../simulation/magnetic/2017-01-05_SI_FC_Model02_Sim_X=-12_12mm_Z=-250_250mm_Icv=1A.txt'
+  fmap_filename            '../../../simulation/magnetic/2017-03-29_SI_FC_Model03_Sim_X=-12_12mm_Z=-250_250mm_Icv=1A.txt'
 
 
 # Runge-kutta algorithm used for the integration of the eqs. of motion needs to know
