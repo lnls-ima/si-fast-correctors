@@ -1,0 +1,3 @@
+--- model polynom_a (rz > 0). units: [m] for length, [rad] for angle and [m^(n-1)] for polynom_a ---
+ len[m]    angle[deg]  PolyA(n=1)   PolyA(n=5)   PolyA(n=9)   PolyA(n=13)  
+ 0.0420 ,  +0.00000 ,  -1.21e-01 ,  -3.02e+05 ,  +1.49e+12 ,  +4.24e+19 , 

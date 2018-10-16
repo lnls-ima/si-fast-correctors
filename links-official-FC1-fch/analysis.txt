@@ -1,0 +1,45 @@
+--- fieldmap ---
+timestamp:                          2018-08-27_14-34-23
+filename:                           2018-08-27_SI-FC_Model06_Sim_X=-12_12mm_Z=-250_250mm_Ich=1A_Icv=0A_Iqs=0A.txt
+magnet_label:                       SI-FC
+magnet_length:                      64.0 mm
+main_coil_current:                  -- A
+main_coil_NI:                       None A
+qs_coil_current:                    0 A
+ch_coil_current:                    1 A
+cv_coil_current:                    0 A
+magnetic_gap:                       28.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            25 points in [-12.0,12.0] mm (step of 1.000000 mm)
+rz_grid:                            501 points in [-250.0,250.0] mm (step of 1.000000 mm)
+by@(all)(axis):                     (min:-0.00393 max:-0.00000) (min:-0.00393 max:-0.00000) Tesla
+bx@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
+bz@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
+--- trajectory (rz > 0) ---
+beam_energy:                        3.000000e+00 GeV
+horizontal_deflection_angle:        +0.0000e+00 deg.
+vertical_deflection_angle:          +0.0000e+00 deg.
+trajectory_length:                  249.9 mm
+trajectory_nrpts:                   2500
+trajectory_s_step:                  0.1 mm
+max_abs_bx@trajectory:              +0.000000 Tesla at (s,rx,ry,rz) = (0.0,0,0,0.0) mm
+max_abs_by@trajectory:              +0.000000 Tesla at (s,rx,ry,rz) = (0.0,0,0,0.0) mm
+max_abs_bz@trajectory:              +0.000000 Tesla at (s,rx,ry,rz) = (0.0,0,0,0.0) mm
+rx position of reference point:     +0.000000 mm
+initial rx position of trajectory:  +0.000000 mm
+--- multipoles on reference trajectory (rz > 0) ---
+effective_length:                   41.70134672319814 mm
+perpendicular_grid:                 41 points in [-12.000000,+12.000000] mm
+max_fitting_error_normal            0.106/13.551 G/G
+max_fitting_error_skew              0.013/0.013 G/G
+r0_for_relative_multipoles          12 mm
+main_monomial                       n = 0, skew:False
+                                       Nn(s=0)      Integ_Nn     Nn/N0(@r0)   |    Sn(s=0)      Integ_Sn     Sn/S0(@r0)  
+<multipole_order n>                    [T/m^n]      [T.m/m^n]        []       |    [T/m^n]      [T.m/m^n]        []      
+n=00:                                3.9350e-03    -1.6409e-04   +1.0000e+00  |      ---           ---           ---     
+n=02:                                1.5953e+01    +5.1484e-01   -4.5180e-01  |      ---           ---           ---     
+n=08:                                6.8371e+11    +1.7089e+10   -4.4780e-02  |      ---           ---           ---     
+--- model polynom_b (rz > 0). units: [m] for length, [rad] for angle and [m^(n-1)] for polynom_b ---
+ len[m]    angle[deg]  PolyB(n=0)   PolyB(n=2)   PolyB(n=8)   
+ 0.0420 ,  +0.00000 ,  +3.90e-04 ,  -1.22e+00 ,  -4.07e+10 , 
