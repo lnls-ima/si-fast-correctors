@@ -5,7 +5,7 @@ current official model version : model-06
 
 fieldmap analysis folder       : FC2-fcv-3gev
 
-fieldmap file                  : 2018-08-27_SI-FC_Model06_Sim_X=-12_12mm_Z=-250_250mm_Ich=0A_Icv=1A_Iqs=0A.txt
+fieldmap file                  : 2018-08-27_SI-FC_Model06_Rot45_Sim_X=-12_12mm_Z=-250_250mm_Ich=0A_Icv=0.71A.txt
 
 
 Observations
