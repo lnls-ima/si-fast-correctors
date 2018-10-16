@@ -29,18 +29,17 @@ max_abs_bz@trajectory:              +0.000000 Tesla at (s,rx,ry,rz) = (0.0,0,0,0
 rx position of reference point:     +0.000000 mm
 initial rx position of trajectory:  +0.000000 mm
 --- multipoles on reference trajectory (rz > 0) ---
-effective_length:                   41.72143136568511 mm
+effective_length:                   41.72143136568514 mm
 perpendicular_grid:                 41 points in [-12.000000,+12.000000] mm
-max_fitting_error_normal            0.234/0.301 G/G
-max_fitting_error_skew              0.535/71.984 G/G
+max_fitting_error_normal            0.301/0.301 G/G
+max_fitting_error_skew              0.537/71.984 G/G
 r0_for_relative_multipoles          12 mm
 main_monomial                       n = 0, skew:True
                                        Nn(s=0)      Integ_Nn     Nn/N0(@r0)   |    Sn(s=0)      Integ_Sn     Sn/S0(@r0)  
 <multipole_order n>                    [T/m^n]      [T.m/m^n]        []       |    [T/m^n]      [T.m/m^n]        []      
-n=00:                                7.8109e-09    -6.8864e-11   -4.2030e-07  |  3.9271e-03    +1.6384e-04   +1.0000e+00 
-n=01:                                1.2278e-05    +1.7668e-09   +1.2940e-07  |  2.0028e-06    -2.9511e-07   -2.1614e-05 
-n=02:                                3.7598e-04    -5.3231e-05   -4.6784e-05  |  1.5929e+01    +5.2707e-01   +4.6324e-01 
+n=00:                                    ---           ---           ---      |  3.9271e-03    +1.6384e-04   +1.0000e+00 
+n=02:                                    ---           ---           ---      |  1.5929e+01    +5.2707e-01   +4.6324e-01 
 n=08:                                    ---           ---           ---      |  2.9134e+11    +1.2815e+10   +3.3631e-02 
 --- model polynom_a (rz > 0). units: [m] for length, [rad] for angle and [m^(n-1)] for polynom_a ---
- len[m]    angle[deg]  PolyA(n=0)   PolyA(n=1)   PolyA(n=2)   PolyA(n=8)   
- 0.0410 ,  +0.00000 ,  -3.99e-04 ,  +7.19e-07 ,  -1.28e+00 ,  -3.12e+10 , 
+ len[m]    angle[deg]  PolyA(n=0)   PolyA(n=2)   PolyA(n=8)   
+ 0.0410 ,  -0.00094 ,  +0.00e+00 ,  -1.28e+00 ,  -3.12e+10 , 
